@@ -13,5 +13,5 @@ I ❤️ Linux! 🐧
 
 [Projects starred](https://github.com/faenrir?tab=stars)
 
-[Gits starred](https://gist.github.com/faenrir/starred)
+[Gists starred](https://gist.github.com/faenrir/starred)
 
