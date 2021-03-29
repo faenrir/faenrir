@@ -7,6 +7,7 @@ I ❤️ Linux! 🐧
 - :seedling: I’m currently learning web development
 - 📫 How to reach me: `faenrir@protonmail.com`
 - 😄 Pronouns: he/him
+- 🎮 In my free time I like to play Windows games on linux. All my favorites work! :))
 - ⚡ Fun fact: sudo can insult you if you turn insults on. it's an official option 😲
 
 #### :star2: My awesome stars
