@@ -3,7 +3,7 @@
 I ❤️ Linux! 🐧 
 
 - 🔭 I’m currently working on my health (fitness) and I'm studying computer science
-- :pencil2: Void Linux / Gentoo / macOS
+- :pencil2: Void Linux / Gentoo
 - :seedling: I’m currently learning web development
 - 📫 How to reach me: `faenrir@protonmail.com`
 - 😄 Pronouns: he/him
