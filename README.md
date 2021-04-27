@@ -1,6 +1,6 @@
 ### Hey, I'm faenrir! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-   <a href="https://www.gentoo.org/news/2021/04/01/genchu.html"><img src="https://www.gentoo.org/assets/img/news/2021/genchu.svg" width="100px" align="right"></a>
+   <a href="https://pbs.twimg.com/media/Ex59i2cU8AUz9im.png"><img src="https://pbs.twimg.com/media/Ex59i2cU8AUz9im.png" width="100px" align="right"></a>
 
 
 I ❤️ Linux! 🐧 
